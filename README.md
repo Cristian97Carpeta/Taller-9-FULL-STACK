@@ -32,5 +32,5 @@ alt="soy-azul">
 
 <h2>Punto 5:</h2>
 <img src="./PUNTO-5/public/images/parrafo.png"
-alt="parrafo"> 
+alt="parrafo">
 
