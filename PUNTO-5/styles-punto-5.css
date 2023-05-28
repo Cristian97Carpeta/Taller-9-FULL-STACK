@@ -1,0 +1,34 @@
+p {
+    margin: 30px 50px 50px 300px;
+}
+.letter-sub-green {
+    text-decoration: underline;
+    color: green;
+}
+
+.letter__red {
+    color: red;
+    font-weight: bold;
+
+}
+
+.letter__sub {
+    text-decoration: underline;
+}
+
+.letter__big {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.letter__blue {
+    color: blue;
+    font-weight: bold;
+}
+
+.letter-sub-red {
+    color: red;
+    font-weight: bold;
+    
+}
+   

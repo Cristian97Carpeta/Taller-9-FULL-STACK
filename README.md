@@ -14,6 +14,9 @@
 <br>
 <a href="https://cristian97carpeta.github.io/Taller-9-FULL-STACK/PUNTO-4/index.html">link punto 4</a>
 
+<br>
+<a href=">
+
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/html.png" 
 alt="html">
@@ -23,6 +26,13 @@ alt="html">
 alt="css">
 
 <h2>Punto 4:</h2>
-<img src="./PUNTO-4/public/images/soy-azul-soy-rojo.png" alt="css">
+<img src="./PUNTO-4/public/images/soy-azul-soy-rojo.png" 
+alt="soy-azul">
+
+<h2>Punto 5:</h2>
+<img src="./PUNTO-5/public/images/parrafo.png" alt="css" 
+alt="parrafo">
+
+
 
 
