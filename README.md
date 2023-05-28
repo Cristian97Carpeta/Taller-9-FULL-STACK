@@ -11,6 +11,9 @@
 <br>
 <a  href="https://cristian97carpeta.github.io/Taller-9-FULL-STACK/">Link pagina web</a>
 
+<br>
+<a href="https://cristian97carpeta.github.io/Taller-9-FULL-STACK/PUNTO-4/index.html">link punto 4</a>
+
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/html.png" 
 alt="html">
@@ -18,5 +21,8 @@ alt="html">
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/css.png" 
 alt="css">
+
+<h2>Punto 4:</h2>
+<img src="./PUNTO-4/public/images/soy-azul-soy-rojo.png" alt="css">
 
 
