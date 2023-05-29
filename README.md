@@ -20,6 +20,9 @@
 <br>
 <a href="https://cristian97carpeta.github.io/Taller-9-FULL-STACK/PUNTO-6/index.html">Link punto 6</a>
 
+<br>
+<a href="https://cristian97carpeta.github.io/Taller-9-FULL-STACK/PUNTO-7-8/index.html">Link punto 7-8</a>
+
  <br>
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/html.png" 
