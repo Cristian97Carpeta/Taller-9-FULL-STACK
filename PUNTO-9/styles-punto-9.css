@@ -1,0 +1,55 @@
+.table {
+    
+    background: rgb(235, 252, 0);
+    max-width: 810px;
+    border: 2px;
+    border-collapse: collapse;
+   
+} 
+
+.fila__1 {
+    border: dotted 2px;
+   
+}
+
+.fila__2 {
+    border: dotted 2px;
+}
+
+.fila__3 {
+    border: dotted 2px;
+}
+
+.fila__4 {
+    border: dotted 2px;
+    
+}
+
+.fila__5 {
+    border: dotted red 2px;
+}
+
+th {
+    color: red;
+}
+
+td .fila__5 {
+    border:dotted red 2px;
+}
+
+
+
+
+
+
+   
+    
+
+
+   
+   
+   
+ 
+
+
+
