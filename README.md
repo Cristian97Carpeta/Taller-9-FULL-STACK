@@ -23,7 +23,8 @@
 <br>
 <a href="https://cristian97carpeta.github.io/Taller-9-FULL-STACK/PUNTO-7-8/index.html">Link punto 7-8</a>
 
-
+<br>
+<a href="https://cristian97carpeta.github.io/Taller-9-FULL-STACK/PUNTO-9/inex.html">Link punto 9</a>
 
 
  <br>
@@ -53,4 +54,4 @@ alt="menu">
 
 <h2>Punto 9:</h2>
 <img src="./PUNTO-9/public/images/tabla-1.png"
-alt="tabla-1"
+alt="tabla-1">
