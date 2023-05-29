@@ -41,4 +41,9 @@ alt="parrafo">
 <img src="./PUNTO-6/public/images/enlaces.png"
 alt="enlaces">
 
+<h2>Punto 7-8:</h2>
+<img src="./PUNTO-7-8/public/images/menu.png"
+alt="menu">
+
+
 
