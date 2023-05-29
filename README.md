@@ -34,3 +34,8 @@ alt="soy-azul">
 <img src="./PUNTO-5/public/images/parrafo.png"
 alt="parrafo">
 
+<h2>Punto 6:</h2>
+<img src="./PUNTO-6/public/images/enlaces.png"
+alt="enlaces">
+
+
